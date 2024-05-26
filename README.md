@@ -85,13 +85,6 @@ The bot will respond with a post in your Telegram channel that includes:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgements
-
-This project uses the following libraries:
-
-- `python-telegram-bot`: A Python wrapper for the Telegram Bot API
-- `requests`: A simple HTTP library for Python
-
 ---
 
 Happy coding! This code was developed exclusively for educational purposes for a university thesis, if you have any questions I will be happy to answer you!
