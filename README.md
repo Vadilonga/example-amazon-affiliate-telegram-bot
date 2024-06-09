@@ -19,7 +19,7 @@ This repository contains a simple Telegram bot that utilizes the Amazon Affiliat
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/example-amazon-affiliate-telegram-bot.git
+   git clone https://github.com/Vadilonga/example-amazon-affiliate-telegram-bot.git
    cd example-amazon-affiliate-telegram-bot
    ```
 
